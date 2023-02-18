@@ -1,0 +1,15 @@
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\bin\Debug\net6.0\LESSON1_HW13.exe
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\bin\Debug\net6.0\LESSON1_HW13.deps.json
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\bin\Debug\net6.0\LESSON1_HW13.runtimeconfig.json
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\bin\Debug\net6.0\LESSON1_HW13.dll
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\bin\Debug\net6.0\LESSON1_HW13.pdb
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\LESSON1_HW13.csproj.AssemblyReference.cache
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\LESSON1_HW13.GeneratedMSBuildEditorConfig.editorconfig
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\LESSON1_HW13.AssemblyInfoInputs.cache
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\LESSON1_HW13.AssemblyInfo.cs
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\LESSON1_HW13.csproj.CoreCompileInputs.cache
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\LESSON1_HW13.dll
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\refint\LESSON1_HW13.dll
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\LESSON1_HW13.pdb
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\LESSON1_HW13.genruntimeconfig.cache
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW13\obj\Debug\net6.0\ref\LESSON1_HW13.dll
